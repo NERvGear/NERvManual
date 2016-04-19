@@ -26,4 +26,4 @@
 
 - 百度 SAO Utils 吧前吧主
 - 欺负萌新是义不容辞的责任
-- 个人主页: <A HREF="http://tieba.baidu.com/f?kw=saoutils" TARGET="_blank">SAO Utils 吧</A>
+- 个人主页: <A HREF="http://bbs.gpbeta.com/?5" TARGET="_blank">SAO Utils 用户社区</A>
