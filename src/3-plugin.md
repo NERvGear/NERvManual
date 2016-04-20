@@ -32,10 +32,29 @@
 
 # 插件管理 {#plugin-manage}
 
+![](Images/plugin-manage-1.jpg)
+
 ## 安装插件 {#plugin-manage-install}
+
+-# 点击【安装…】按钮后选择 .NVG 后缀的插件安装包；
+-# 安装成功后，在插件列表选中该插件，勾选【启用】；
+-# 点击【保存】启用。
+
+> 某些浏览器可能会更改插件包的后缀，如果下载下来的插件包是压缩包，请换个浏览器重新下载。
 
 ## 升级插件 {#plugin-manage-upgrade}
 
+- 操作与 \ref plugin-manage-install 相同，需要重启 SAO Utils 完成升级。
+
 ## 启用 / 禁用插件 {#plugin-manage-switch}
 
+-# 在插件列表选中需要开关的插件，取消或勾选【启用】；
+-# 点击【保存】应用设置。
+
 ## 移除插件 {#plugin-manage-remove}
+
+- 暂时不支持卸载操作。如需删除插件，退出程序后，删除 SAO Utils\\Plugins 目录下对应的文件夹即可。
+
+## 重置插件设置 {#plugin-manage-reset}
+
+- 暂时不支持插件重置操作。如需恢复插件到原始设定，禁用插件后，删除 SAO Utils\\Configs 目录下对应的文件夹后启用插件即可。
