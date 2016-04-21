@@ -27,7 +27,7 @@
 
 ## 早期版本 {#history-app-archive}
 
-SAO Utils Alpha 2
+SAO Utils Alpha 2 <A HREF="http://www.gpbeta.com/post/develop/sao-utils-alpha2/" TARGET="_blank">开发日志</A>
 
 - 2014.10.01 - Alpha 2 Hotfix 4
 - 2014.07.09 - Alpha 2 Hotfix 3
@@ -35,7 +35,7 @@ SAO Utils Alpha 2
 - 2013.11.09 - Alpha 2 Hotfix 1
 - 2013.10.05 - Alpha 2
 
-SAO Utils Alpha 1
+SAO Utils Alpha 1 <A HREF="http://www.gpbeta.com/post/develop/sao-utils-archive2/" TARGET="_blank">开发日志</A>
 
 - 2013.08.25 – Alpha 1 Hotfix 7
 - 2013.05.02 – Alpha 1 Hotfix 6
