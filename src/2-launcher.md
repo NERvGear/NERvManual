@@ -81,15 +81,18 @@ mailto://（后面加上要收件人的电子邮箱地址，这个链接的作�
 命令：勾选[命令]后点![](Images/temp/3-1-2-1-2-2.jpg)<br>
 可以输入项目点击后所实行的cmd命令<br>
 常用cmd命令：<br>
-取消关机：shutdown.exe -a <br>
-关机: shutdown.exe -s -t 0（0可更改为等待关机的秒数）<br>
-**　　Win8及以上系统使用shutdown.exe -s -hybrid -t 0以启用混合启动**<br>
-重启: shutdown.exe -r -t 0（0可更改为等待关机的秒数）<br>
-锁定: rundll32.exe user32.dll,LockWorkStation<br>
-挂起: rundll32.exe powrProf.dll,SetSuspendState<br>
-命令行: cmd<br>
-记事本: notepad<br>
-计算器: calc<br>
+
+|功能|命令|注释|
+|-|-|-|
+|取消关机|`shutdown.exe -a`|-|
+|关机|`shutdown.exe -s -t 0`|0可改为等待秒数|
+|关机(混合启动)|`shutdown.exe -s -hybrid -t 0`|Win8及以上系统请使用本条|
+|重启|`shutdown.exe -r -t 0`|0可改为等待秒数|
+|锁定|`rundll32.exe user32.dll,LockWorkStation`|-|
+|挂起|`rundll32.exe powrProf.dll,SetSuspendState`|-|
+|命令行|`cmd`|-|
+|记事本|`notepad`|-|
+|计算器|`calc`|-|
 确认内容编辑无误后请点击![](Images/temp/3-1-2-1-1-3.jpg)
 
 # 启动器预览图片 {#launcher-1-3}
