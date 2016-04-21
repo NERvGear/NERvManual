@@ -69,7 +69,7 @@
 链接前需加入协议，如：<br>
 http://（后面加上网址可以使项目点击后打开此网址，如：http://www.baidu.com）<br>
 file://（后面加上文件夹路径和文件名可打开文件夹或文件，如：file://c:/）<br>
-keys://（后面加上项目点击后自动实行的按键，如：keys://win+s）<br>
+keys://（后面加上项目点击后自动实行的按键，如：keys://win+s，仅SAO Utils有效）<br>
 mailto://（后面加上要收件人的电子邮箱地址，这个链接的作用就是发邮件）<br>
 我的电脑:file://::{20D04FE0-3AEA-1069-A2D8-08002B30309D}<br>
 系统库:file://::{031E4825-7B94-4dc3-B131-E946B44C8DD5}<br>
@@ -83,6 +83,7 @@ mailto://（后面加上要收件人的电子邮箱地址，这个链接的作�
 常用cmd命令：<br>
 取消关机：shutdown.exe -a <br>
 关机: shutdown.exe -s -t 0（0可更改为等待关机的秒数）<br>
+**　　Win8及以上系统使用shutdown.exe -s -hybrid -t 0以启用混合启动**<br>
 重启: shutdown.exe -r -t 0（0可更改为等待关机的秒数）<br>
 锁定: rundll32.exe user32.dll,LockWorkStation<br>
 挂起: rundll32.exe powrProf.dll,SetSuspendState<br>
