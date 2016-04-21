@@ -6,8 +6,8 @@
 # SAO Utils 是什么 {#summary-is}
 
 SAO Utils 就是一款可定制的「刀剑神域」风格的应用启动器，您 __可以__ ：
-- 把常用的应用、游戏以及文件等添加到[启动器菜单](\ref launcher)；
-- 通过安装[插件](\ref plugin)，添加[启动器主题](\ref launcher-theme)，或是放置一些挂件到桌面；
+- 把常用的应用、游戏以及文件等添加到 [启动器菜单](\ref launcher)；
+- 通过安装 [插件](\ref plugin)，添加 [启动器主题](\ref launcher-theme)，或是放置一些挂件到桌面；
 - 支持 32 / 64位 Windows 2000, XP, Vista, 7, 8, 8.1, 10。
 
 > 为了还原 SAO 动画中菜单的风格，初始启动菜单的一些项目使用 __英文命名__ ，用户可以随意修改。
