@@ -70,18 +70,25 @@
 ### 链接<br>
 勾选[链接]后点![](Images/temp/3-1-2-1-2-2.jpg)<br>
 可以输入项目点击后所打开的链接<br>
-链接前需加入协议，如：<br>
-http://（后面加上网址可以使项目点击后打开此网址，如：http://www.baidu.com）<br>
-file://（后面加上文件夹路径和文件名可打开文件夹或文件，如：file://c:/）<br>
-keys://（后面加上项目点击后自动实行的按键，如：keys://win+s，仅SAO Utils有效）<br>
-mailto://（后面加上要收件人的电子邮箱地址，这个链接的作用就是发邮件）<br>
-我的电脑:file://::{20D04FE0-3AEA-1069-A2D8-08002B30309D}<br>
-系统库:file://::{031E4825-7B94-4dc3-B131-E946B44C8DD5}<br>
-我的文档:file://::{031E4825-7B94-4dc3-B131-E946B44C8DD5}\\Documents.library-ms<br>
-我的音乐: file://::{031E4825-7B94-4dc3-B131-E946B44C8DD5}\\Music.library-ms<br>
-我的图片: file://::{031E4825-7B94-4dc3-B131-E946B44C8DD5}\\Pictures.library-ms<br>
-我的视频: file://::{031E4825-7B94-4dc3-B131-E946B44C8DD5}\\Videos.library-ms<br>
-回收站:file://::{645FF040-5081-101B-9F08-00AA002F954E}<br>
+链接前需加入协议头，如：<br>
+
+|协议头|备注|样例|
+|-|-|-|
+|http|后面加上网址可以使项目点击后打开此网址|`http://www.baidu.com/`|
+|file|后面加上文件夹路径和文件名可打开文件夹或文件|`file://c:/`|
+|mailto|后面加上收件人的电子邮箱地址|`mailto:name@email.com`|
+|keys|后面加上项目点击后自动实行的按键|`keys://win+s`|
+常用file协议样例：<br>
+
+|位置|URL|
+|-|-|
+|我的电脑|`file://::{20D04FE0-3AEA-1069-A2D8-08002B30309D}`|
+|系统库|`file://::{031E4825-7B94-4dc3-B131-E946B44C8DD5}`|
+|我的文档|`file://::{031E4825-7B94-4dc3-B131-E946B44C8DD5}\Documents.library-ms`|
+|我的音乐|`file://::{031E4825-7B94-4dc3-B131-E946B44C8DD5}\Music.library-ms`|
+|我的图片|`file://::{031E4825-7B94-4dc3-B131-E946B44C8DD5}\Pictures.library-ms`|
+|我的视频|`file://::{031E4825-7B94-4dc3-B131-E946B44C8DD5}\Videos.library-ms`|
+|回收站|`file://::{645FF040-5081-101B-9F08-00AA002F954E}`|
 ### 命令<br>
 勾选[命令]后点![](Images/temp/3-1-2-1-2-2.jpg)<br>
 可以输入项目点击后所实行的cmd命令<br>
