@@ -4,6 +4,8 @@
 ![](Images/mainpage.gif)
 
 <CENTER><BR><STRONG>&gt;&gt; [开始阅读](\ref summary) &lt;&lt;</STRONG></CENTER>
+<CENTER><BR><STRONG>&gt;&gt; <A HREF="https://translate.google.com/translate?hl=en&sl=zh-CN&tl=en&u=http%3A%2F%2Fnvg.gpbeta.com%2Fmanual%2F" TARGET="_blank">Translate to English</A></CENTER>
+<CENTER><BR><STRONG>&gt;&gt; <A HREF="https://translate.google.com/translate?hl=en&sl=zh-CN&tl=ja&u=http%3A%2F%2Fnvg.gpbeta.com%2Fmanual%2F" TARGET="_blank">日本語に翻訳</A></CENTER>
 
 ### 相关链接
 
